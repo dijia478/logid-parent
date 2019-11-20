@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.dijia478.logid.spring.boot.autoconfigure.LogIdAspect
