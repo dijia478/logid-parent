@@ -1,7 +1,7 @@
 # logid-parent
-练习自定义spring-boot-starter，主要功能是给日志增加logId
+练习自定义spring-boot-starter，主要功能是给日志增加logId  
 
-使用方法:
+使用方法:  
 1.下载源码  
 2.对logid-parent父工程进行maven打包构建install（也可以自行上传到maven私服）  
 3.在需要加logid的服务里，引用刚构建到本地的maven依赖  
